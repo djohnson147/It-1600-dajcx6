@@ -1,4 +1,4 @@
-# My college, MIZZOU!
+# My college, MIZZOU!!
 Mizzou was founded by *Rollins*, as a main road is named after him that you will most likely see if you visit the University. It was founded in **1839**
 ## Things to do at Mizzou
 There is many of things to do at Mizzou, some of them are...
