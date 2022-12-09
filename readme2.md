@@ -1,8 +1,7 @@
-# My college, MIZZOU!!
-Mizzou was founded by *Rollins*, as a main road is named after him that you will most likely see if you visit the University. It was founded in **1839**
-## Things to do at Mizzou
-There is many of things to do at Mizzou, some of them are...
-- Atend a football game 
-- Explore downtown Columbia
-- Workout in the best university rec-center in the nation!
-For more things to do click [here](https://www.liberty.edu/champion/wp-content/uploads/2020/03/SPORTS-800x280.jpg)
+#The Future of Film Engineering
+CGI is the future of film. It helps engineers make things look way more realistic with the advance technology that keeps getting better and better.
+## The End of Movie Theatres
+Streaming services are taking over, with new hot movies making deals with services such as "Amazon Prime Video"to have the movie stream on their app. This allows the audience to...
+-Watch the movie in the comfort of their own home.
+-Only paying one streaming fee for access to hundreds of movies.
+-Avoid movie theatre prices.
