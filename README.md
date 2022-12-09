@@ -1,5 +1,3 @@
-# It-1600-dajcx6
-The project for INFOTECH 1600 created by Dom Johnson
-## All About me
-My name is Dominic Johnson, I am a student at the University of Missouri. I am 21 years old and I love sports.
-![sports](https://www.liberty.edu/champion/wp-content/uploads/2020/03/SPORTS-800x280.jpg)
+The Future of TV and Film
+By: Dominic Johnson
+[image](https://user-images.githubusercontent.com/60159702/206802112-7d6a667d-98ca-4a71-a99f-0915e3c31531.png))
