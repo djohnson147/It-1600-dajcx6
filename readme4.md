@@ -1,5 +1,2 @@
-## Why I chose this major
-I chose this major because I thought it was intersting, and I thought it would be a great way to make a lot of **money**
-I was going to be a history teacher, but they make on average *less* money. 
-I love this so far and I am happy i chose it.
-I want to persue Cyber Security or Cloud Sales when I graduate.
+## Target Audience 
+The target audience for this presentation would be people that have knowledge into modern film technology with questions on what the trends will be going forward. It should be people who enjoy watching films and TV to help them determine what way to watch is best for them!
